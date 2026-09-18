@@ -11,18 +11,22 @@ actual goal percentage. The goal is to identify regression candidates, which are
 who are outscoring their expected stats, and bounce back candidates, players who are underscoring those
 expected stats.
 
+
 Business Question
 
 Which skaters and lines/pairing are producing results that their expected goal metrics don’t support?
+
 
 Data Source
 
 Data was taken from MoneyPuck, for the 2025-26 season at the skaters and lines level.
 https://moneypuck.com/data.htm
 
+
 Methodology
 
 Skater analysis
+
 1. Calculated each player’s difference between expected goal and actual goal total
 2. Calculated each player’s expected high danger goals per 60 minutes played, and calculated the
 league average expected high danger goals per 60 minutes
@@ -31,6 +35,7 @@ deviations from the mean expected goal differential:
 Regression Candidate: xG diff > 5.7
 Bounce Back Candidate: xG diff < -5.7
 Sustainable: within the expected range
+
 
 Line Analysis
 
@@ -42,6 +47,7 @@ Overachieving Line: outscoring their expected share by 10%+
 Underachieving Line: underscoring their expected share by 10%+
 Performing as Expected: within the expected range
 
+
 Key Findings
 
 Jake DeBrusk posted the largest negative difference between their actual goal output and their expected
@@ -51,6 +57,7 @@ higher goal output.
 The Holloway-Thomas-Snuggerud is significantly outperforming its expected goal share, (G% of 80%
 compared to xG% of 58%), likely driven by their strong finishing in limited minutes together (260
 minutes played together).
+
 
 Tools Used
 
