@@ -50,7 +50,7 @@ Performing as Expected: within the expected range
 
 Key Findings
 
-Jake DeBrusk posted the largest negative difference between their actual goal output and their expected
+Anders Lee posted the largest negative difference between their actual goal output and their expected
 goal output, suggesting that if he were to keep up his play into the 2026-27 year, he would likely have a
 higher goal output.
 
